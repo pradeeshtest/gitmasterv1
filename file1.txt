@@ -1,10 +1,13 @@
 Showing Your Remotes
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Working with Remotes
 
 Adding Remote Repositories
 
 Pushing to Your Remotes
+=======
+>>>>>>> parent of 127b015... file v2
 =======
 >>>>>>> parent of 127b015... file v2
