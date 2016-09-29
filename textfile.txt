@@ -4,3 +4,4 @@ This ID can be used in commands like git log <since>..<until> to refer to specif
 
 
 
+dea behind all of these identification methods is to let you perform actions based on specific commits. The git log command is typically the starting point for these interactions, as it lets you find the commits you want to work with.
